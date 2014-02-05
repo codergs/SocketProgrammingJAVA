@@ -14,4 +14,4 @@ the RC4 cipher. We will assume that the transmitter and the receiver have a shar
 which will be used for encryption and decryption and will also automatically authenticate the
 communicating parties.
 
-The folder Archive contains two folders, one containg code for the server side and other for the client side.
+The folder Archive contains two folders, one contains code for the server side and other for the client side.

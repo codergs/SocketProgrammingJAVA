@@ -3,7 +3,7 @@ ENTS-640
 ====
 
 SocketProgramming (Java), Networks and Protocols I
-University of Maryland Nov 2013-­Dec 2013
+University of Maryland Sep 2013-­Dec 2013
 
 A distributed networking application in Java consisting of a transmitter and a receiver that can
 ensure reliable data transfer. The application uses Java’s UDP sockets (classes DatagramPacket and

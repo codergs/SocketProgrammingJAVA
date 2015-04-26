@@ -2,8 +2,8 @@ ENTS-640
 
 ====
 
-SocketProgramming (Java), Networks and Protocols I
-University of Maryland Sep 2013-­Dec 2013
+###SocketProgramming (Java), Networks and Protocols I
+####University of Maryland Sep 2013-­Dec 2013
 
 A distributed networking application in Java consisting of a transmitter and a receiver that can
 ensure reliable data transfer. The application uses Java’s UDP sockets (classes DatagramPacket and
@@ -14,4 +14,4 @@ the RC4 cipher. We will assume that the transmitter and the receiver have a shar
 which will be used for encryption and decryption and will also automatically authenticate the
 communicating parties.
 
-The folder Archive contains two folders, one contains code for the server side and other for the client side.
+UDPSender.Java and SenderFunction.java are at the client side, and UDPReceiver.java and ReceiverFucnction.java is at serer side. You can test the script using to local instance if Eclipse running on localhost.

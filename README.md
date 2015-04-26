@@ -1,7 +1,3 @@
-ENTS-640
-
-====
-
 ###SocketProgramming (Java), Networks and Protocols I
 ####University of Maryland Sep 2013-­Dec 2013
 
@@ -14,4 +10,4 @@ the RC4 cipher. We will assume that the transmitter and the receiver have a shar
 which will be used for encryption and decryption and will also automatically authenticate the
 communicating parties.
 
-UDPSender.Java and SenderFunction.java are at the client side, and UDPReceiver.java and ReceiverFucnction.java is at serer side. You can test the script using to local instance if Eclipse running on localhost.
+UDPSender.java and SenderFunction.java are at the client side, and UDPReceiver.java and ReceiverFucnction.java is at serer side. You can test the script using to local instance if Eclipse running on localhost.
